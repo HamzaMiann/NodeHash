@@ -1,0 +1,12 @@
+{
+  "name": "node-hash",
+  "version": "0.0.0",
+  "description": "NodeHash",
+  "main": "app.js",
+  "author": {
+    "name": "hamza"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
